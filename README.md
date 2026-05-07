@@ -34,6 +34,8 @@ python3 GraphSolver.py ring <num_nodes> <modulus> <CONV|DIV> <model> <daemon>
 
 📄 Asma Khoualdia, Sami Cherif, Stéphane Devismes, Léo Robert. Sur l’autostabilisation de la circulation de jeton asynchrone de Dijkstra. Journées Francophones de Programmation par Contraintes (JFPC 2026), May 2026, Louvain-la-Neuve, Belgium. https://sites.uclouvain.be/jfpc26/articles/JFPC_2026_paper_2.pdf
 
+- - - - - - - - - - - - - - - - - - - - - - - -
+
 You can refer to our previous work on synchronous unison, which provides both source code and benchmark instances:
 
 📄 Asma Khoualdia, Sami Cherif, Stéphane Devismes, Léo Robert. Analyzing Self-Stabilization of Synchronous Unison via Propositional Satisfiability. International Conference on Principles and Practice of Constraint Programming (CP 2025), Glasgow, Scotland. [DOI: https://doi.org/10.4230/LIPIcs.CP.2025.19/](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2025.19)
